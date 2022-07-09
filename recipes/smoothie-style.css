@@ -1,0 +1,15 @@
+body {
+    color: burlywood;
+    background-color: green;
+    text-align: center;
+}
+
+.picto {
+    width: 400px;
+    height: auto;
+}
+
+p, ul, li {
+    text-align: left;
+    font-family: sans-serif, 'times new roman';
+}

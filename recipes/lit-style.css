@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    color: green;
+    background-color: turquoise;
+}
+
+.picto {
+    width: 300px;
+    height: auto;
+}
+
+p, ul, li {
+    text-align: left;
+}
